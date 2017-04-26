@@ -1,0 +1,8 @@
+{
+  "name": "meine Übung 7",
+  "version": "version 1.0",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
